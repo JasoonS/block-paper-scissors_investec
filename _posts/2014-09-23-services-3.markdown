@@ -1,8 +1,12 @@
 ---
 layout: default
-img: phones.png
+img: blockchain-agreements.jpg
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Peer to Peer lending made easy
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+  Our system allows peer-to-peer lending scheems to be setup directly between users.
+
+  Interest rates, penulties, and other stipulations can be programmed into the immutable smart-contracts that controll these loans.
+
+  Clients 'trust score' which is their peer-to-peer credit rating is developed, and stored immutably in the blockchain forever linked to the user. This reputation will allow users to secure larger loans even when changing banks.

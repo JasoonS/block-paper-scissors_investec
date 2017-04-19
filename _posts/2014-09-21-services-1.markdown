@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: blockchain-network.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Global Transactions<br>No Extra Fees
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  By leveraging the global Ethereum blockchain network, funds can be send anywhere around the world for close to nothing.
